@@ -4,7 +4,8 @@
 
 # Hi there! 👋
 
-I'm Giovanni, a passionate developer who enjoys working on a variety of technologies and projects. Whether it's open-source contributions or private repositories, I'm currently studing to become a Full Stack Developer.
+I'm Giovanni, a passionate developer who enjoys working on a variety of technologies and projects, whether it's open-source contributions or private repositories.
+I'm currently studing to become a Full Stack Developer.
 
 <!---## 🚀 About Me--->
 <br>
