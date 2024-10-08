@@ -6,7 +6,8 @@
 
 I'm Giovanni, a passionate developer who enjoys working on a variety of technologies and projects. Whether it's open-source contributions or private repositories, I'm currently studing to become a Full Stack Developer.
 
-## 🚀 About Me
+<!---## 🚀 About Me--->
+<br>
 <h2 align="center">⚒️ Languages . Frameworks . Tools ⚒️</h2>
 <br/>
 <div align="center">
