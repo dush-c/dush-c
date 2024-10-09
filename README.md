@@ -5,7 +5,6 @@
 # Hi there! 👋
 
 I'm Giovanni, a passionate developer who enjoys working on a variety of technologies and projects, whether it's open-source contributions or private repositories.
-I'm currently studing to become a Full Stack Developer.
 
 <!---## 🚀 About Me--->
 <br>
@@ -19,7 +18,7 @@ I'm currently studing to become a Full Stack Developer.
 
 
 ## ⚡ Fun fact
-I'm currently building a **Static Gallery Art Site** with **Blazor** and **.NET 8.0**. Stay tuned for updates!
+I'm currently studing to become a Full Stack Developer.
 
 ---
 
