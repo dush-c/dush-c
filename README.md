@@ -11,8 +11,8 @@ I'm Giovanni, a passionate developer who enjoys working on a variety of technolo
 <h2 align="center">⚒️ Languages . Frameworks . Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,git,github,azure,cs,discord,dotnet" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mysql,mongodb,express,docker,linkedin" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,git,github,azure,cs,discord,dotnet,nestjs" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mysql,mongodb,express,docker,linkedin,angular" /><br>
 </div>
 <br>
 
