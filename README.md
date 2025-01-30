@@ -17,7 +17,9 @@ I'm Giovanni, a passionate developer who enjoys working on a variety of technolo
 <br>
 
 # 📊 GitHub Stats:
+<!---
 ![](https://github-readme-stats.vercel.app/api?username=dush-c&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dush-c&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dush-c&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
